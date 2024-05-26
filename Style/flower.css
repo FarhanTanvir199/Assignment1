@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(229, 84, 115, 0.1);
+    padding: 2% 10%;
+    display: flex;
+    gap: 8%;
+    margin-bottom: 6.5%;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-button {
+    width: 50%;
+}
+
+.header-button .title {
+    font-size: 55px;
+    line-height: normal;
+    color: #272727;
+    font-weight: 800;
+}
+
+.header-button .subtitle {
+    color: #27272799;
+    opacity: 0.6;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 32px 0px;
+}
+
+.button {
+    background-color: #e55473;
+    border: 0;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+}
+
+.header-image img {
+    width: 460px;
+}
+
+.feature-prompt {
+    text-align: center;
+}
+
+.feature-prompt h2 {
+    color: #272727;
+    font-weight: 800;
+    font-size: 28px;
+    text-align: center;
+    margin: 2% 0%;
+}
+
+.feature-prompt h3 {
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.6);
+    font-weight: 400;
+    margin: 2% 0%;
+}
+
+.flower-tree-container {
+    display: flex;
+    padding: 0% 14%;
+    gap: 15px;
+}
+
+.flower-tree {
+    height: 141px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 10% 0%;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img {
+    width: 56%;
+}
+
+.bg1 {
+    background-color: rgba(167, 33, 98, 0.15);
+}
+
+.bg2 {
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+.bg3 {
+    overflow: hidden;
+    background-color: rgba(71, 125, 17, 0.15);
+}
+
+.texts {
+    display: flex;
+    /* justify-content: space-between; */
+    */
+    /* /* margin-left: 650px; */
+}
+
+.text3 {
+    padding-left: 150px;
+}
+
+.text2 {
+    padding-left: 180px;
+}
+
+.text1 {
+    padding-left: 360px;
+}
+
+
+.headflower {}
+
+
+.hot {
+    background-color: #E554730D;
+}
+
+.hot-deal {
+    /* text-align: center; */
+    /* display: flex; */
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+
+}
+
+.dealtitle {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.dealpara {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.signup {
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    font-size: 20px;
+    color: white;
+}
+
+.deal-title {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.hotimage {
+    width: 350px;
+    height: 400px;
+    margin-left: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.instagramtitle {
+
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.instagrampara {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.instagramtext {
+    text-align: center;
+
+}
+
+.imageinsta {
+    padding-left: 200px;
+}
+
+.instaimage1 {
+    margin-right: 20px;
+}
+
+.instaimage2 {
+    margin-right: 20px;
+}
+
+.instaimage2 {
+    margin-right: 20px;
+}
+
+.instaimage3 {
+    margin-right: 20px;
+}
+
+
+
+.footerintro {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 15px;
+
+}
+
+.footerpara {
+    margin-bottom: 20px;
+}
+
+
+.lastline {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 30px;
+
+}
+
+.lastclass {
+    background-color: #111010;
+    text-align: center;
+}
+
+
+.middler {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 740px;
+    height: 180px;
+    margin-right: 150px;
+    border-color: #111010;
+
+
+}
+
+.lastimage {
+    background-image: url("Media/Flower Asset/Rectangle 9.png");
+}
+
+.inputt
+{
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    width: 730px;
+    height: 34px;
+    flex-shrink: 0;
+    Border:0;
+
+
+}
